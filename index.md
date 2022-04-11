@@ -10,23 +10,31 @@ sections:
       background: /images/Web_banner_mockup_Apr2022.png
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: About EETC
+          description: Overview
+          url: ""
+        - title: Keynote
+          description: Our Speakers
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Concurrent Session
+          description: 14 Concurrent Sessions
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Programme Overview
+          description: Schedule
           url: /privacy/
+      button: Register
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Awards
+      button: Find out more
       url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
