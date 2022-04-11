@@ -7,8 +7,7 @@ permalink: /
 notification: EETC 2022
 sections:
   - hero:
-      background: /images/hero-banner.png
-      button: Click to register
+      background: /images/Web_banner_mockup_Apr2022.png
       url: /contact-us/
       key_highlights:
         - title: Highlight A
